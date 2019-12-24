@@ -2,7 +2,7 @@
 
 ```
 **Code**
-__block__
+_block_
 ``` 
 
-\** and \__ don't work inside a block. __**But they do work here.**__
+\** and \_ don't work inside a block. _**But they do work here.**_
