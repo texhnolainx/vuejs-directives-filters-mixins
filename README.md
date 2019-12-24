@@ -1,8 +1,8 @@
 # Directives, filters and mixins in VueJS
 
 ```
-** Code **
-- block -
+**Code**
+__block__
 ``` 
 
-\** and \- don't work inside a block. __**But they do work here.**__
+\** and \__ don't work inside a block. __**But they do work here.**__
